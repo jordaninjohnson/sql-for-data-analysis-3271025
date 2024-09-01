@@ -9,7 +9,7 @@ INSERT INTO Product (
   )
 VALUES (
     17,
-    'MWORG64',
+    'MWORG644',
     " ",
     64,
     'Orange',
